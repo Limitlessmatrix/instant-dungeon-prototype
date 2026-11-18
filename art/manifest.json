@@ -1,0 +1,458 @@
+{
+ "game": "instant-dungeon",
+ "rev": "a1",
+ "items": [
+  {
+   "id": "p00",
+   "kind": "panel",
+   "w": 1280,
+   "h": 720,
+   "prompt": "Title illustration: Kai, a slim young man in his mid twenties with short messy black hair and tired grey eyes, wearing a white shirt with rolled sleeves and dark trousers, seen from behind, standing in a glowing grassy field in front of a dungeon gate made of vines and stone, an alien pastel sky above, distant mountains. Anime key visual, isekai fantasy story illustration, clean line art, soft cel shading, cinematic lighting, detailed background, widescreen composition. No text, no captions, no watermark."
+  },
+  {
+   "id": "p01",
+   "kind": "panel",
+   "w": 1280,
+   "h": 720,
+   "prompt": "Morning in a small cluttered apartment, sunlight through window blinds, Kai, a slim young man in his mid twenties with short messy black hair and tired grey eyes in a t-shirt reaching from his bed to silence a ringing alarm clock. Anime key visual, isekai fantasy story illustration, clean line art, soft cel shading, cinematic lighting, detailed background, widescreen composition. No text, no captions, no watermark."
+  },
+  {
+   "id": "p02",
+   "kind": "panel",
+   "w": 1280,
+   "h": 720,
+   "prompt": "Kai, a slim young man in his mid twenties with short messy black hair and tired grey eyes, wearing a white office shirt and a loose dark tie, typing at a computer in a grey office cubicle among rows of identical cubicles. Anime key visual, isekai fantasy story illustration, clean line art, soft cel shading, cinematic lighting, detailed background, widescreen composition. No text, no captions, no watermark."
+  },
+  {
+   "id": "p03",
+   "kind": "panel",
+   "w": 1280,
+   "h": 720,
+   "prompt": "Kai, a slim young man in his mid twenties with short messy black hair and tired grey eyes, wearing a white office shirt and a loose dark tie, staring past his monitor in a cubicle, faint translucent fantasy castles and dragons drifting above his head as a daydream. Anime key visual, isekai fantasy story illustration, clean line art, soft cel shading, cinematic lighting, detailed background, widescreen composition. No text, no captions, no watermark."
+  },
+  {
+   "id": "p04",
+   "kind": "panel",
+   "w": 1280,
+   "h": 720,
+   "prompt": "Kai, a slim young man in his mid twenties with short messy black hair and tired grey eyes, wearing a white office shirt and a loose dark tie, sitting alone at a cafe window table with a sandwich and a coffee, watching people walk by on the street outside. Anime key visual, isekai fantasy story illustration, clean line art, soft cel shading, cinematic lighting, detailed background, widescreen composition. No text, no captions, no watermark."
+  },
+  {
+   "id": "p05",
+   "kind": "panel",
+   "w": 1280,
+   "h": 720,
+   "prompt": "Close view of a small sketchbook with pencil sketches of passers-by, the hand of Kai, a slim young man in his mid twenties with short messy black hair and tired grey eyes, wearing a white office shirt and a loose dark tie drawing, a coffee cup beside it on a cafe table. Anime key visual, isekai fantasy story illustration, clean line art, soft cel shading, cinematic lighting, detailed background, widescreen composition. No text, no captions, no watermark."
+  },
+  {
+   "id": "p06",
+   "kind": "panel",
+   "w": 1280,
+   "h": 720,
+   "prompt": "A friendly barista in an apron chatting across the counter with Kai, a slim young man in his mid twenties with short messy black hair and tired grey eyes, wearing a white office shirt and a loose dark tie, who smiles shyly. Anime key visual, isekai fantasy story illustration, clean line art, soft cel shading, cinematic lighting, detailed background, widescreen composition. No text, no captions, no watermark."
+  },
+  {
+   "id": "p07",
+   "kind": "panel",
+   "w": 1280,
+   "h": 720,
+   "prompt": "Kai, a slim young man in his mid twenties with short messy black hair and tired grey eyes, wearing a white office shirt and a loose dark tie, leaving an office building in late afternoon, glancing over his shoulder at a small strange flicker of light at the edge of a busy city street. Anime key visual, isekai fantasy story illustration, clean line art, soft cel shading, cinematic lighting, detailed background, widescreen composition. No text, no captions, no watermark."
+  },
+  {
+   "id": "p08",
+   "kind": "panel",
+   "w": 1280,
+   "h": 720,
+   "prompt": "Kai, a slim young man in his mid twenties with short messy black hair and tired grey eyes, wearing a white office shirt and a loose dark tie, sitting alone on a park bench under trees at golden hour, people in the distance. Anime key visual, isekai fantasy story illustration, clean line art, soft cel shading, cinematic lighting, detailed background, widescreen composition. No text, no captions, no watermark."
+  },
+  {
+   "id": "p09",
+   "kind": "panel",
+   "w": 1280,
+   "h": 720,
+   "prompt": "View from behind Kai, a slim young man in his mid twenties with short messy black hair and tired grey eyes, wearing a white office shirt and a loose dark tie on a park bench, watching a group of friends play basketball on a court, wistful mood. Anime key visual, isekai fantasy story illustration, clean line art, soft cel shading, cinematic lighting, detailed background, widescreen composition. No text, no captions, no watermark."
+  },
+  {
+   "id": "p10",
+   "kind": "panel",
+   "w": 1280,
+   "h": 720,
+   "prompt": "Night, a dark room lit by a monitor, Kai, a slim young man in his mid twenties with short messy black hair and tired grey eyes in a hoodie with a game controller, a fantasy game and a chat window glowing on screen. Anime key visual, isekai fantasy story illustration, clean line art, soft cel shading, cinematic lighting, detailed background, widescreen composition. No text, no captions, no watermark."
+  },
+  {
+   "id": "p11",
+   "kind": "panel",
+   "w": 1280,
+   "h": 720,
+   "prompt": "Kai, a slim young man in his mid twenties with short messy black hair and tired grey eyes in a hoodie at his apartment window at night, looking up at a starry sky over the city. Anime key visual, isekai fantasy story illustration, clean line art, soft cel shading, cinematic lighting, detailed background, widescreen composition. No text, no captions, no watermark."
+  },
+  {
+   "id": "p12",
+   "kind": "panel",
+   "w": 1280,
+   "h": 720,
+   "prompt": "A city crossing in the morning with something subtly wrong, flickering street lights and startled birds, Kai, a slim young man in his mid twenties with short messy black hair and tired grey eyes, wearing a white office shirt and a loose dark tie walking among commuters and looking around uneasily. Anime key visual, isekai fantasy story illustration, clean line art, soft cel shading, cinematic lighting, detailed background, widescreen composition. No text, no captions, no watermark."
+  },
+  {
+   "id": "p13",
+   "kind": "panel",
+   "w": 1280,
+   "h": 720,
+   "prompt": "A dramatic moment at a city crosswalk: Kai, a slim young man in his mid twenties with short messy black hair and tired grey eyes, wearing a white office shirt and a loose dark tie lunging forward with both arms out to push a young mother and her small child to safety, bright headlights of a speeding car behind him, motion blur. No impact shown. Anime key visual, isekai fantasy story illustration, clean line art, soft cel shading, cinematic lighting, detailed background, widescreen composition. No text, no captions, no watermark."
+  },
+  {
+   "id": "p14",
+   "kind": "panel",
+   "w": 1280,
+   "h": 720,
+   "prompt": "City street sounds fading: an empty crosswalk dissolving into soft white light and drifting particles, a dropped office bag on the ground, quiet and still. Anime key visual, isekai fantasy story illustration, clean line art, soft cel shading, cinematic lighting, detailed background, widescreen composition. No text, no captions, no watermark."
+  },
+  {
+   "id": "p15",
+   "kind": "panel",
+   "w": 1280,
+   "h": 720,
+   "prompt": "Kai, a slim young man in his mid twenties with short messy black hair and tired grey eyes, wearing a white shirt with rolled sleeves and dark trousers, standing up dazed in an open grassy field under an alien sky painted in teal, pink and gold, two pale moons. Anime key visual, isekai fantasy story illustration, clean line art, soft cel shading, cinematic lighting, detailed background, widescreen composition. No text, no captions, no watermark."
+  },
+  {
+   "id": "p16",
+   "kind": "panel",
+   "w": 1280,
+   "h": 720,
+   "prompt": "Wide landscape: Kai, a slim young man in his mid twenties with short messy black hair and tired grey eyes, wearing a white shirt with rolled sleeves and dark trousers, small in the frame, looking at towering strange mountains and floating rocks far across a fantasy plain. Anime key visual, isekai fantasy story illustration, clean line art, soft cel shading, cinematic lighting, detailed background, widescreen composition. No text, no captions, no watermark."
+  },
+  {
+   "id": "p17",
+   "kind": "panel",
+   "w": 1280,
+   "h": 720,
+   "prompt": "A small fluffy rabbit with feathered wings hopping past the feet of a surprised Kai, a slim young man in his mid twenties with short messy black hair and tired grey eyes, wearing a white shirt with rolled sleeves and dark trousers in tall grass. Anime key visual, isekai fantasy story illustration, clean line art, soft cel shading, cinematic lighting, detailed background, widescreen composition. No text, no captions, no watermark."
+  },
+  {
+   "id": "p18",
+   "kind": "panel",
+   "w": 1280,
+   "h": 720,
+   "prompt": "Kai, a slim young man in his mid twenties with short messy black hair and tired grey eyes, wearing a white shirt with rolled sleeves and dark trousers, leaping impossibly high above a meadow with a delighted grin, arms spread, wind lines. Anime key visual, isekai fantasy story illustration, clean line art, soft cel shading, cinematic lighting, detailed background, widescreen composition. No text, no captions, no watermark."
+  },
+  {
+   "id": "p19",
+   "kind": "panel",
+   "w": 1280,
+   "h": 720,
+   "prompt": "Kai, a slim young man in his mid twenties with short messy black hair and tired grey eyes, wearing a white shirt with rolled sleeves and dark trousers, holding out his open hands in wonder, a small swirl of fire, water and wind light spinning above his palms. Anime key visual, isekai fantasy story illustration, clean line art, soft cel shading, cinematic lighting, detailed background, widescreen composition. No text, no captions, no watermark."
+  },
+  {
+   "id": "p20",
+   "kind": "panel",
+   "w": 1280,
+   "h": 720,
+   "prompt": "An ancient structure of woven vines and mossy stones pulsing with a warm inviting glow, a dark doorway in it, Kai, a slim young man in his mid twenties with short messy black hair and tired grey eyes, wearing a white shirt with rolled sleeves and dark trousers approaching through the grass. Anime key visual, isekai fantasy story illustration, clean line art, soft cel shading, cinematic lighting, detailed background, widescreen composition. No text, no captions, no watermark."
+  },
+  {
+   "id": "p21",
+   "kind": "panel",
+   "w": 1280,
+   "h": 720,
+   "prompt": "Inside a maze of living vine walls and stone floors lit by glowing runes, the walls shifting, Kai, a slim young man in his mid twenties with short messy black hair and tired grey eyes, wearing a white shirt with rolled sleeves and dark trousers studying a riddle carved on a stone tablet. Anime key visual, isekai fantasy story illustration, clean line art, soft cel shading, cinematic lighting, detailed background, widescreen composition. No text, no captions, no watermark."
+  },
+  {
+   "id": "p22",
+   "kind": "panel",
+   "w": 1280,
+   "h": 720,
+   "prompt": "Kai, a slim young man in his mid twenties with short messy black hair and tired grey eyes, wearing a white shirt with rolled sleeves and dark trousers, kneeling at an opened treasure chest in a vine covered chamber, lifting out a glowing crystal artifact, an old parchment map in his other hand. Anime key visual, isekai fantasy story illustration, clean line art, soft cel shading, cinematic lighting, detailed background, widescreen composition. No text, no captions, no watermark."
+  },
+  {
+   "id": "p23",
+   "kind": "panel",
+   "w": 1280,
+   "h": 720,
+   "prompt": "Outside a dungeon in a forest clearing, Eris, a fierce young woman warrior with a long crimson braid and amber eyes, dark leather armor with steel pauldrons, a longsword, arguing with Zephyr, a relaxed young man with tousled silver-white hair and teal eyes, a long green traveler's coat and a satchel of scrolls, who shrugs with a grin. Anime key visual, isekai fantasy story illustration, clean line art, soft cel shading, cinematic lighting, detailed background, widescreen composition. No text, no captions, no watermark."
+  },
+  {
+   "id": "p24",
+   "kind": "panel",
+   "w": 1280,
+   "h": 720,
+   "prompt": "Comedy scene: Kai, a slim young man in his mid twenties with short messy black hair and tired grey eyes, wearing a white shirt with rolled sleeves and dark trousers, Eris, a fierce young woman warrior with a long crimson braid and amber eyes, dark leather armor with steel pauldrons, a longsword, and Zephyr, a relaxed young man with tousled silver-white hair and teal eyes, a long green traveler's coat and a satchel of scrolls, all three tangled together in a rope net trap on the forest floor, annoyed and embarrassed faces. Anime key visual, isekai fantasy story illustration, clean line art, soft cel shading, cinematic lighting, detailed background, widescreen composition. No text, no captions, no watermark."
+  },
+  {
+   "id": "p25",
+   "kind": "panel",
+   "w": 1280,
+   "h": 720,
+   "prompt": "Kai, a slim young man in his mid twenties with short messy black hair and tired grey eyes, wearing a white shirt with rolled sleeves and dark trousers, Eris, a fierce young woman warrior with a long crimson braid and amber eyes, dark leather armor with steel pauldrons, a longsword, and Zephyr, a relaxed young man with tousled silver-white hair and teal eyes, a long green traveler's coat and a satchel of scrolls, standing together on a forest path at sunset, an uneasy new team, Eris with arms crossed, Zephyr smiling. Anime key visual, isekai fantasy story illustration, clean line art, soft cel shading, cinematic lighting, detailed background, widescreen composition. No text, no captions, no watermark."
+  },
+  {
+   "id": "p26",
+   "kind": "panel",
+   "w": 1280,
+   "h": 720,
+   "prompt": "A daunting gothic dungeon entrance of black stone, pointed arches and iron gates under a grey sky, three small figures before it: Kai, a slim young man in his mid twenties with short messy black hair and tired grey eyes, wearing a white shirt with rolled sleeves and dark trousers, Eris, a fierce young woman warrior with a long crimson braid and amber eyes, dark leather armor with steel pauldrons, a longsword, and Zephyr, a relaxed young man with tousled silver-white hair and teal eyes, a long green traveler's coat and a satchel of scrolls. Anime key visual, isekai fantasy story illustration, clean line art, soft cel shading, cinematic lighting, detailed background, widescreen composition. No text, no captions, no watermark."
+  },
+  {
+   "id": "p27",
+   "kind": "panel",
+   "w": 1280,
+   "h": 720,
+   "prompt": "Inside a gothic dungeon, three parallel stone corridors divided by walls seen in cutaway, Kai, a slim young man in his mid twenties with short messy black hair and tired grey eyes, wearing a white shirt with rolled sleeves and dark trousers, in one, Eris, a fierce young woman warrior with a long crimson braid and amber eyes, dark leather armor with steel pauldrons, a longsword, in the next, Zephyr, a relaxed young man with tousled silver-white hair and teal eyes, a long green traveler's coat and a satchel of scrolls, in the third, each beside a glowing floor plate. Anime key visual, isekai fantasy story illustration, clean line art, soft cel shading, cinematic lighting, detailed background, widescreen composition. No text, no captions, no watermark."
+  },
+  {
+   "id": "p28",
+   "kind": "panel",
+   "w": 1280,
+   "h": 720,
+   "prompt": "The heart of a gothic dungeon: a massive horned guardian of black stone and shadow with a glowing violet core in its chest towering over three small adventurers in a pillared hall. Anime key visual, isekai fantasy story illustration, clean line art, soft cel shading, cinematic lighting, detailed background, widescreen composition. No text, no captions, no watermark."
+  },
+  {
+   "id": "p29",
+   "kind": "panel",
+   "w": 1280,
+   "h": 720,
+   "prompt": "After the battle, Kai, a slim young man in his mid twenties with short messy black hair and tired grey eyes, wearing a white shirt with rolled sleeves and dark trousers, Eris, a fierce young woman warrior with a long crimson braid and amber eyes, dark leather armor with steel pauldrons, a longsword, and Zephyr, a relaxed young man with tousled silver-white hair and teal eyes, a long green traveler's coat and a satchel of scrolls, resting around a small campfire outside the dungeon at dusk, tired and smiling, talking. Anime key visual, isekai fantasy story illustration, clean line art, soft cel shading, cinematic lighting, detailed background, widescreen composition. No text, no captions, no watermark."
+  },
+  {
+   "id": "p30",
+   "kind": "panel",
+   "w": 1280,
+   "h": 720,
+   "prompt": "A fantasy landscape under a sky turning sinister: dark swirling clouds forming a huge crackling vortex, long twisted shadows on the ground, three small figures looking up. Anime key visual, isekai fantasy story illustration, clean line art, soft cel shading, cinematic lighting, detailed background, widescreen composition. No text, no captions, no watermark."
+  },
+  {
+   "id": "p31",
+   "kind": "panel",
+   "w": 1280,
+   "h": 720,
+   "prompt": "High on a distant hill, a lone hooded figure in a dark tattered cloak, face hidden, watching the valley far below under a storm vortex. Anime key visual, isekai fantasy story illustration, clean line art, soft cel shading, cinematic lighting, detailed background, widescreen composition. No text, no captions, no watermark."
+  },
+  {
+   "id": "p32",
+   "kind": "panel",
+   "w": 1280,
+   "h": 720,
+   "prompt": "Close on Kai, a slim young man in his mid twenties with short messy black hair and tired grey eyes, wearing a white shirt with rolled sleeves and dark trousers, looking up at a storm sky with a determined glint in his eyes, wind in his hair, the vortex reflected in them. Anime key visual, isekai fantasy story illustration, clean line art, soft cel shading, cinematic lighting, detailed background, widescreen composition. No text, no captions, no watermark."
+  },
+  {
+   "id": "kai",
+   "kind": "sprite",
+   "w": 768,
+   "h": 768,
+   "variants": 2,
+   "prompt": "Kai, a slim young man in his mid twenties with short messy black hair and tired grey eyes, wearing a white shirt with rolled sleeves and dark trousers. Chibi video game character sprite, full body, standing, facing the viewer, three-quarter top-down RPG view, flat colors, bold dark outline, centered, the whole figure in frame with margin, plain solid white background, no ground shadow, no text."
+  },
+  {
+   "id": "eris",
+   "kind": "sprite",
+   "w": 768,
+   "h": 768,
+   "variants": 2,
+   "prompt": "Eris, a fierce young woman warrior with a long crimson braid and amber eyes, dark leather armor with steel pauldrons, a longsword. Chibi video game character sprite, full body, standing, facing the viewer, three-quarter top-down RPG view, flat colors, bold dark outline, centered, the whole figure in frame with margin, plain solid white background, no ground shadow, no text."
+  },
+  {
+   "id": "zephyr",
+   "kind": "sprite",
+   "w": 768,
+   "h": 768,
+   "variants": 2,
+   "prompt": "Zephyr, a relaxed young man with tousled silver-white hair and teal eyes, a long green traveler's coat and a satchel of scrolls. Chibi video game character sprite, full body, standing, facing the viewer, three-quarter top-down RPG view, flat colors, bold dark outline, centered, the whole figure in frame with margin, plain solid white background, no ground shadow, no text."
+  },
+  {
+   "id": "rabbit",
+   "kind": "sprite",
+   "w": 768,
+   "h": 768,
+   "variants": 2,
+   "prompt": "A small fluffy white rabbit with feathered wings. Chibi video game character sprite, full body, standing, facing the viewer, three-quarter top-down RPG view, flat colors, bold dark outline, centered, the whole figure in frame with margin, plain solid white background, no ground shadow, no text."
+  },
+  {
+   "id": "boar",
+   "kind": "sprite",
+   "w": 768,
+   "h": 768,
+   "variants": 2,
+   "prompt": "A bristly wild fantasy boar with glowing blue tusks, angry. Chibi video game character sprite, full body, standing, facing the viewer, three-quarter top-down RPG view, flat colors, bold dark outline, centered, the whole figure in frame with margin, plain solid white background, no ground shadow, no text."
+  },
+  {
+   "id": "slime",
+   "kind": "sprite",
+   "w": 768,
+   "h": 768,
+   "variants": 2,
+   "prompt": "A green slime creature wrapped in small leafy vines, two simple eyes. Chibi video game character sprite, full body, standing, facing the viewer, three-quarter top-down RPG view, flat colors, bold dark outline, centered, the whole figure in frame with margin, plain solid white background, no ground shadow, no text."
+  },
+  {
+   "id": "bat",
+   "kind": "sprite",
+   "w": 768,
+   "h": 768,
+   "variants": 2,
+   "prompt": "A dark purple cave bat with red eyes, wings spread. Chibi video game character sprite, full body, standing, facing the viewer, three-quarter top-down RPG view, flat colors, bold dark outline, centered, the whole figure in frame with margin, plain solid white background, no ground shadow, no text."
+  },
+  {
+   "id": "knight",
+   "kind": "sprite",
+   "w": 768,
+   "h": 768,
+   "variants": 2,
+   "prompt": "A skeleton knight in rusted gothic armor holding a shield and a mace. Chibi video game character sprite, full body, standing, facing the viewer, three-quarter top-down RPG view, flat colors, bold dark outline, centered, the whole figure in frame with margin, plain solid white background, no ground shadow, no text."
+  },
+  {
+   "id": "boss",
+   "kind": "sprite",
+   "w": 768,
+   "h": 768,
+   "variants": 2,
+   "prompt": "A massive horned guardian golem of black stone and shadow with a glowing violet core in its chest. Chibi video game character sprite, full body, standing, facing the viewer, three-quarter top-down RPG view, flat colors, bold dark outline, centered, the whole figure in frame with margin, plain solid white background, no ground shadow, no text."
+  },
+  {
+   "id": "chest",
+   "kind": "sprite",
+   "w": 768,
+   "h": 768,
+   "variants": 2,
+   "prompt": "A closed wooden treasure chest with iron bands. Single video game item sprite, three-quarter top-down RPG view, flat colors, bold dark outline, centered, whole object in frame with margin, plain solid white background, no ground shadow, no text."
+  },
+  {
+   "id": "chest_open",
+   "kind": "sprite",
+   "w": 768,
+   "h": 768,
+   "variants": 2,
+   "prompt": "An open wooden treasure chest with iron bands, golden light inside. Single video game item sprite, three-quarter top-down RPG view, flat colors, bold dark outline, centered, whole object in frame with margin, plain solid white background, no ground shadow, no text."
+  },
+  {
+   "id": "artifact",
+   "kind": "sprite",
+   "w": 768,
+   "h": 768,
+   "variants": 2,
+   "prompt": "A glowing faceted crystal artifact wrapped in a ring of gold. Single video game item sprite, three-quarter top-down RPG view, flat colors, bold dark outline, centered, whole object in frame with margin, plain solid white background, no ground shadow, no text."
+  },
+  {
+   "id": "map",
+   "kind": "sprite",
+   "w": 768,
+   "h": 768,
+   "variants": 2,
+   "prompt": "A rolled old parchment map tied with a red ribbon. Single video game item sprite, three-quarter top-down RPG view, flat colors, bold dark outline, centered, whole object in frame with margin, plain solid white background, no ground shadow, no text."
+  },
+  {
+   "id": "lever",
+   "kind": "sprite",
+   "w": 768,
+   "h": 768,
+   "variants": 2,
+   "prompt": "A stone pedestal with a brass lever. Single video game item sprite, three-quarter top-down RPG view, flat colors, bold dark outline, centered, whole object in frame with margin, plain solid white background, no ground shadow, no text."
+  },
+  {
+   "id": "orb",
+   "kind": "sprite",
+   "w": 768,
+   "h": 768,
+   "variants": 2,
+   "prompt": "A round glowing rune stone orb on a short stone pedestal. Single video game item sprite, three-quarter top-down RPG view, flat colors, bold dark outline, centered, whole object in frame with margin, plain solid white background, no ground shadow, no text."
+  },
+  {
+   "id": "door_vine",
+   "kind": "sprite",
+   "w": 768,
+   "h": 768,
+   "variants": 2,
+   "prompt": "A square gate made of thick woven vines, seen from the front. Single video game item sprite, three-quarter top-down RPG view, flat colors, bold dark outline, centered, whole object in frame with margin, plain solid white background, no ground shadow, no text."
+  },
+  {
+   "id": "door_iron",
+   "kind": "sprite",
+   "w": 768,
+   "h": 768,
+   "variants": 2,
+   "prompt": "A square gothic iron portcullis gate, seen from the front. Single video game item sprite, three-quarter top-down RPG view, flat colors, bold dark outline, centered, whole object in frame with margin, plain solid white background, no ground shadow, no text."
+  },
+  {
+   "id": "net",
+   "kind": "sprite",
+   "w": 768,
+   "h": 768,
+   "variants": 2,
+   "prompt": "A rope net trap spread flat on the ground. Single video game item sprite, three-quarter top-down RPG view, flat colors, bold dark outline, centered, whole object in frame with margin, plain solid white background, no ground shadow, no text."
+  },
+  {
+   "id": "kai",
+   "kind": "portrait",
+   "w": 768,
+   "h": 768,
+   "prompt": "Kai, a slim young man in his mid twenties with short messy black hair and tired grey eyes, wearing a white shirt with rolled sleeves and dark trousers. Anime character portrait, head and shoulders, facing the viewer, soft cel shading, simple dark blurred background. No text."
+  },
+  {
+   "id": "eris",
+   "kind": "portrait",
+   "w": 768,
+   "h": 768,
+   "prompt": "Eris, a fierce young woman warrior with a long crimson braid and amber eyes, dark leather armor with steel pauldrons, a longsword. Anime character portrait, head and shoulders, facing the viewer, soft cel shading, simple dark blurred background. No text."
+  },
+  {
+   "id": "zephyr",
+   "kind": "portrait",
+   "w": 768,
+   "h": 768,
+   "prompt": "Zephyr, a relaxed young man with tousled silver-white hair and teal eyes, a long green traveler's coat and a satchel of scrolls. Anime character portrait, head and shoulders, facing the viewer, soft cel shading, simple dark blurred background. No text."
+  },
+  {
+   "id": "grass",
+   "kind": "tile",
+   "w": 512,
+   "h": 512,
+   "prompt": "Lush green meadow grass with tiny scattered wildflowers. Top-down video game ground texture, viewed straight from above, flat even lighting, fills the whole image edge to edge, no perspective, no horizon, no objects, no characters, no text."
+  },
+  {
+   "id": "path",
+   "kind": "tile",
+   "w": 512,
+   "h": 512,
+   "prompt": "A worn dirt path with small pebbles. Top-down video game ground texture, viewed straight from above, flat even lighting, fills the whole image edge to edge, no perspective, no horizon, no objects, no characters, no text."
+  },
+  {
+   "id": "vine_floor",
+   "kind": "tile",
+   "w": 512,
+   "h": 512,
+   "prompt": "Old mossy stone floor slabs with thin vines growing in the cracks. Top-down video game ground texture, viewed straight from above, flat even lighting, fills the whole image edge to edge, no perspective, no horizon, no objects, no characters, no text."
+  },
+  {
+   "id": "vine_wall",
+   "kind": "tile",
+   "w": 512,
+   "h": 512,
+   "prompt": "A dense wall of thick woven dark green vines and leaves. Top-down video game ground texture, viewed straight from above, flat even lighting, fills the whole image edge to edge, no perspective, no horizon, no objects, no characters, no text."
+  },
+  {
+   "id": "goth_floor",
+   "kind": "tile",
+   "w": 512,
+   "h": 512,
+   "prompt": "Dark grey gothic flagstone floor, worn and cracked. Top-down video game ground texture, viewed straight from above, flat even lighting, fills the whole image edge to edge, no perspective, no horizon, no objects, no characters, no text."
+  },
+  {
+   "id": "goth_wall",
+   "kind": "tile",
+   "w": 512,
+   "h": 512,
+   "prompt": "Black gothic stone bricks with carved trim. Top-down video game ground texture, viewed straight from above, flat even lighting, fills the whole image edge to edge, no perspective, no horizon, no objects, no characters, no text."
+  },
+  {
+   "id": "plate",
+   "kind": "tile",
+   "w": 512,
+   "h": 512,
+   "prompt": "A square stone pressure plate with a glowing blue rune carved in the middle. Top-down video game ground texture, viewed straight from above, flat even lighting, fills the whole image edge to edge, no perspective, no horizon, no objects, no characters, no text."
+  },
+  {
+   "id": "water",
+   "kind": "tile",
+   "w": 512,
+   "h": 512,
+   "prompt": "Clear shallow turquoise water with soft ripples. Top-down video game ground texture, viewed straight from above, flat even lighting, fills the whole image edge to edge, no perspective, no horizon, no objects, no characters, no text."
+  }
+ ]
+}
