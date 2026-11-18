@@ -10,7 +10,9 @@ written to see how far a story can be turned into something playable.
 
 ## Play
 
-Open `web/index.html` in a browser. No install and no build step: plain JavaScript on a canvas.
+Play in the browser: https://limitlessmatrix.github.io/instant-dungeon-prototype/
+
+Or clone the repository and open `web/index.html`. No install and no build step: plain JavaScript on a canvas.
 
 | Key | Action |
 |---|---|
